@@ -1,0 +1,27 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuyNem/backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "NgocHuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuyNem/backend-zero/issues"
+  },
+  "homepage": "https://github.com/HuyNem/backend-zero#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
